@@ -1,3 +1,3 @@
 # seminar
 
-zmena
+zmena 2
